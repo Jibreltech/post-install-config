@@ -64,3 +64,15 @@ Next we are going to configure agents. Agents are individual team members who ha
 </p>
 <p>
 Now we are going to configure Users. Users are customers or clients who submit requests or report issues through the ticketing system. They initate the support process by creating tickets that agents then review, manage and resolve. To configure Users select Agent Panel->Users->Add new. Then add one user named Karen
+
+<p>
+</p>
+<p>
+<img width="939" height="240" alt="image" src="https://github.com/user-attachments/assets/809c3263-a5dc-4728-87d8-83c04a346a01" />
+</p>
+<img width="941" height="244" alt="image" src="https://github.com/user-attachments/assets/7ccb033d-96df-4cbd-bf50-f20eee49aa1d" />
+</p>
+<img width="940" height="241" alt="image" src="https://github.com/user-attachments/assets/3efef8a9-eb7e-4761-a307-45c59b43235a" />
+</p>
+<p>
+Next we are going to configure SLA, SLAs (Service Level Agreements) are predefined standards that outline the expeceted response and resolution times for customer requests. They help ensure consistent service quality by setting clear performance goals for support teams. To configure SLAs select Admin Panel->Manage->SLA and then select Sev-A(Grace Period:1 hour, Schedule:24/7), Sev-B(Grace Period:4 hours, Schedule:24/7), Sev-C (Grace Period:8 hours,Schedule:Monday-Friday 8am-5pm with U.S Holidays).
