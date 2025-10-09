@@ -43,13 +43,12 @@ Configure roles by selecting Admin Panel->Agents->Roles. Then create a role name
 <p>
 <img width="941" height="139" alt="image" src="https://github.com/user-attachments/assets/9a0adc2e-ee3c-4787-bf21-d74922024d0c" />
 </p>
-<p>  Next we are going to configure departments. Departments  help organize support requests by category or team, ensuring that each issue is routed to the right group of specialists. To configure departments simply select Admin Panel->Agents->Departments. Once in the department settings go to name and name your department "SysAdmins".  </p>
+<p>  Next we are going to configure departments. Departments help organize support requests by category or team, ensuring that each issue is routed to the right group of specialists. To configure departments simply select Admin Panel->Agents->Departments. Once in the department settings go to name and name your department "SysAdmins".  </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="943" height="107" alt="image" src="https://github.com/user-attachments/assets/adf02378-1a73-439f-8925-80e87f22b7a3" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+To Configure teams simply  select Admin Panel → Agents → Teams. Then Click the Add New Team button, then in the Add New Team section, enter “Online Banking” in the Name field. Finally, click Create Team to save your changes.</p>
 <br />
