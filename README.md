@@ -43,7 +43,7 @@ Configure roles by selecting Admin Panel->Agents->Roles. Then create a role name
 <p>
 <img width="941" height="139" alt="image" src="https://github.com/user-attachments/assets/9a0adc2e-ee3c-4787-bf21-d74922024d0c" />
 </p>
-<p>  Next we are going to configure departments. Departments  help organize support requests by category or team, ensuring that each issue is routed to the right group of specialists. To configure departments simply select Admin Panel->Agents->Departments. Once in the department settings go to name and name your department "SysAdmins". Then go to the "add new dept" button at the bottom. </p>
+<p>  Next we are going to configure departments. Departments  help organize support requests by category or team, ensuring that each issue is routed to the right group of specialists. To configure departments simply select Admin Panel->Agents->Departments. Once in the department settings go to name and name your department "SysAdmins".  </p>
 <br />
 
 <p>
