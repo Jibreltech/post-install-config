@@ -52,3 +52,9 @@ Configure roles by selecting Admin Panel->Agents->Roles. Then create a role name
 <p>
 To Configure teams simply  select Admin Panel → Agents → Teams. Then Click the Add New Team button, then in the Add New Team section, enter “Online Banking” in the Name field. Finally, click Create Team to save your changes.</p>
 <br />
+
+<p>
+<img width="943" height="135" alt="image" src="https://github.com/user-attachments/assets/ab1a27a2-e3dc-439a-a9b9-7cf22995fad5" />
+</p>
+<p>
+Next we are going to configure agents. Agents are individual team members who handle customer issues and inquiries by creating, updating, and managing tickets within the ticketing system. They serve as the main point of contact for customers, ensuring that requests are resolved efficiently and accurately. To configure Agents select Admin Panel->Agents->Add New then add two new agents named John Doe and Jane Doe
