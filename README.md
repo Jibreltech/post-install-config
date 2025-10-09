@@ -58,3 +58,9 @@ To Configure teams simply  select Admin Panel → Agents → Teams. Then Click t
 </p>
 <p>
 Next we are going to configure agents. Agents are individual team members who handle customer issues and inquiries by creating, updating, and managing tickets within the ticketing system. They serve as the main point of contact for customers, ensuring that requests are resolved efficiently and accurately. To configure Agents select Admin Panel->Agents->Add New then add two new agents named John Doe and Jane Doe
+
+<p>
+<img width="943" height="106" alt="image" src="https://github.com/user-attachments/assets/07188f09-eaf5-40f8-9cfb-5099ad40c078" />
+</p>
+<p>
+Now we are going to configure Users. Users are customers or clients who submit requests or report issues through the ticketing system. They initate the support process by creating tickets that agents then review, manage and resolve. To configure Users select Agent Panel->Users->Add new. Then add one user named Karen
